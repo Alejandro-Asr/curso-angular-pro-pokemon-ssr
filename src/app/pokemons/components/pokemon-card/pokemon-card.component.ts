@@ -2,7 +2,6 @@ import {
   ChangeDetectionStrategy,
   Component,
   computed,
-  effect,
   input,
 } from '@angular/core';
 import { SimplePokemon } from '../../interfaces';
